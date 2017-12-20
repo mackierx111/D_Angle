@@ -1,9 +1,8 @@
-
-# D-Angle
+# D_Angle
 AssettoCorsa's app mod showing the drift angle  
 
 ## Screen shot
-- over view  
+- overview  
 
 ![d_angle_sample](https://user-images.githubusercontent.com/14327102/34168532-1338e690-e528-11e7-8804-d2f08255b7c9.png)
 
@@ -21,10 +20,9 @@ AssettoCorsa's app mod showing the drift angle
 - temp hold peak angle and km/h (reset when stopped)
 
 ## Instration
-1. download zip & unzip
+1. [download](https://github.com/mackierx111/D_Angle/archive/v1.0.0.zip) zip & unzip
 1. drag & drop "apps" and "content" dir to Steam\steamapps\common\assettocorsa
 
 ## Author
-mackierx111  
 twitter : [@mackierx111](https://twitter.com/mackierx111)  
 e-mail : mackierx111@gmail.com
