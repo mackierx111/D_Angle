@@ -21,7 +21,7 @@ AssettoCorsa's app mod showing the drift angle
 
 ## Instration
 1. [download](https://github.com/mackierx111/D_Angle/archive/v1.0.0.zip) zip & unzip
-1. drag & drop "apps" and "content" dir to Steam\steamapps\common\assettocorsa
+1. drag & drop "apps" and "content" folder to Steam\steamapps\common\assettocorsa
 
 ## Author
 twitter : [@mackierx111](https://twitter.com/mackierx111)  
